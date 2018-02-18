@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/dp1/singleton/Singleton.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/dp14/visitor/Client.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/dp14/visitor/ConcreteElement1.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/dp14/visitor/ConcreteElement2.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/dp2/factory/HumanFactory.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/dp2/factory/NvWa.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/dp2/factory/WhiteHuman.java" charset="GBK" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>
